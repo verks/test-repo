@@ -4,4 +4,4 @@
 
 require File.expand_path('../config/application', __FILE__)
 
-MyFirstApp::Application.load_tasks
+TestRepo::Application.load_tasks
